@@ -20,5 +20,5 @@ def coherence_score_viz(text,coherence_calculation,lower_range,upper_range,corpo
     plt.xlabel('Topics')
     plt.ylabel('Coherence Score')
     plt.title(coherence_calculation+' Coherence Score')
-    fig.savefig(path_def+'output/'+coherence_calculation+'_score_fig.png')
+    fig.savefig(path_def+'figs/'+coherence_calculation+'_score_fig.png')
     return
