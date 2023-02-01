@@ -1,3 +1,24 @@
+
+### [Project Description](doc/)
+
++ Project title: Is Aristotle's Natural Philosophy objective?
++ This project is conducted by Safira Raharjo
+
++ Project summary: Natural philosophy is well known as the predecessor to the scientific method. Most people will also agree that a well written scientific article in a journal will be more objective than an article in a magazine. Can we use methods of machine learning in natural language processing to see if natural philosophy is similarly objective compared to other schools of thought? The analysis finds that texts classified under natural philosophy is written in language no more objective than texts in other schools of thout, and even modern scientific articles. It can be concluded that just just because the methods of analysis used in the texts are more objective, it doesn't mean that the language used is, regardless of topic.
+
+Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz), this folder is organized as follows.
+
+```
+proj/
+├── lib/
+├── data/
+├── doc/
+├── figs/
+└── output/
+```
+
+Please see each subfolder for a README file.
+
 # Is Aristotle's Natural Philosophy objective?
 
 ## Introduction
