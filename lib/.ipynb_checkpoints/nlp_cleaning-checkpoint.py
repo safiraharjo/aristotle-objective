@@ -1,4 +1,5 @@
 def cleaner(nlp,df,column):
+    #Adverb, pronoun, coordinating conjunction, punctuation, particle, determiner, adposition, space, number, symbol
     removal= ['ADV','PRON','CCONJ','PUNCT','PART','DET','ADP','SPACE', 'NUM', 'SYM']
     tokens = []
     for summary in nlp.pipe(column):
