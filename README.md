@@ -1,5 +1,5 @@
 
-### [Project Description](doc/)
+### [Project Description](doc/Proj1_desc.md)
 
 + Project title: Is Aristotle's Natural Philosophy objective?
 + This project is conducted by Safira Raharjo
